@@ -1,0 +1,33 @@
+h1 {
+	font-family: Charcoal;
+	color: goldenrod;
+}
+
+h2 {
+	font-family: Charcoal;
+}
+
+nav {
+	font-family: Charcoal;
+	color: lightgray;
+}
+
+h3 {
+	font-family: Charcoal;
+	color: grey;
+	font-size: 1.5em;
+}
+
+p::first-letter {
+	font-size: 300%;
+	color: gray;
+	float: left;
+}
+
+h4 {
+	color: lightgoldenrodyellow;
+}
+
+a {
+	color: goldenrod;
+}
